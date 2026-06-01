@@ -1,0 +1,6 @@
+awscli
+matplotlib
+nibabel
+numpy
+jupyterlab
+ipykernel
