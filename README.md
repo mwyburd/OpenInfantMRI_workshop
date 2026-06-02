@@ -20,7 +20,7 @@ Install Docker Desktop:
 
 After installation, verify Docker is working:
 
-    ```
+    ```bash
     docker run hello-world
     ```
 
@@ -33,7 +33,7 @@ You should see a message beginning with:
 Clone the repository:
 
 
-    ```
+    ```bash
     git clone <REPOSITORY_URL>
     cd OpenInfantMRI_workshop
     ```
@@ -43,7 +43,7 @@ or download the ZIP file from GitHub and extract it.
 
 ## Install Python Requirements
 
-    ```
+    ```bash
     pip install -r requirements.txt
     ```
 
